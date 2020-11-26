@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitLabAnd</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+</resources>
